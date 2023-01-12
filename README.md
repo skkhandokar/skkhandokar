@@ -1,6 +1,6 @@
-### Hi there 👋,  Hi there, I'm Samadul Kabir 👋
-#### I'm a Learner, Problem Solver and Junior Software Engineer!!
-![I'm a Learner, Problem Solver and Junior Software Engineer!!](https://www.linkedin.com/in/khondokar-samadul-kabir-455a94160/)
+### Hi there 👋, I'm Samadul Kabir 👋
+
+### ![I'm a Learner, Problem Solver and Junior Software Engineer!!](https://www.linkedin.com/in/khondokar-samadul-kabir-455a94160/)
 
 #### 🥅 2022 Goals: To solve 500+ problems  
 ####  🥅 2023 Goals: To bring love of my life home (Preparation going on...)
