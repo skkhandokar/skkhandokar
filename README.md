@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Samadul Kabir 👋
+### Hi there 👋, I am Khandokar Samadul Kabir  👋
 
 ### ![I'm a Learner, Problem Solver and Junior Software Engineer!!](https://www.linkedin.com/in/khondokar-samadul-kabir-455a94160/)
 
