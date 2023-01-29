@@ -1,14 +1,17 @@
 ### Hi there 👋, I am Khandokar Samadul Kabir  👋
-I am a Junior Software Engineer
 
 ### ![I am a Learner, Problem Solver and Junior Software Engineer!!](https://www.linkedin.com/in/khondokar-samadul-kabir-455a94160/)
+
+A software engineer who is seeking to find the opportunity to work in a fun and challenging working
+environment that will encourage him to improve and learn new and necessary skills as well as be
+motivated by the company to do his best for the sake of helping himself and the company advance in the
+software engineering industry.
 
 #### 🥅 2022 Goals: To solve 250+ problems  
 ####  🥅 2023 Goals: To bring love of my life home (Preparation going on...)
 
 Skills: C / C++ /PYTHON/ HTML / CSS
 
-- 🔭 I’m currently working on Youtube as Content Creator 
 - 🌱 I’m currently learning Python  
 - 👯 I’m looking to collaborate on Github 
 
