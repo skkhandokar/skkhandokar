@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Khandokar Samadul Kabir  👋
 
-### ![I am a Learner, Problem Solver and Junior Software Engineer!!](https://www.linkedin.com/in/khondokar-samadul-kabir-455a94160/)
+### ![I am a Learner, Problem Solver and Software Engineer!!](https://www.linkedin.com/in/khondokar-samadul-kabir-455a94160/)
 
 A software engineer who is seeking to find the opportunity to work in a fun and challenging working
 environment that will encourage him to improve and learn new and necessary skills as well as be
