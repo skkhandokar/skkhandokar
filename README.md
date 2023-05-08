@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Khandokar Samadul Kabir  👋
 
-### ![I am a Learner, Problem Solver and A full stack web developer but mostly works on Backend.r!!](https://www.linkedin.com/in/skkhandokar/)
+### ![I am a Learner, Problem Solver and A full stack web developer but mostly works on Backend.r!!]
 
 A full stack web developer who is seeking to find the opportunity to work in a fun and challenging working
 environment that will encourage him to improve and learn new and necessary skills as well as be
