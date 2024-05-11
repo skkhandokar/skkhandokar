@@ -1,7 +1,9 @@
 ### Hi there 👋, I am Khandokar Samadul Kabir  👋
 
 ### I am a Learner, Problem Solver and A full stack web developer but mostly works on Backend
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=skkhandokar&label=Profile%20Views&color=3&icon=0&pretty=false" />
+</a>
 A full stack web developer who is seeking to find the opportunity to work in a fun and challenging working
 environment that will encourage him to improve and learn new and necessary skills as well as be
 motivated by the company to do his best for the sake of helping himself and the company advance in the
