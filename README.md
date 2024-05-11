@@ -10,7 +10,7 @@ software engineering industry.
 #### 🥅 2022 Goals: To solve 300+ problems  
 ####  🥅 2023 Goals: To bring love of my life home (Preparation going on...)
 
-### Skills:  C / C++ / PYTHON / DJANGO / Django REST FrameWork / Git and Github / PostgreSql / SQL /  HTML5 / CSS3 / JavaScript / Bootstrap / Tailwind CSS 
+### Skills:  Python / Django / HTML / JavaScript / React / Next.js / CSS / Wordpress / Tailwind CSS / Bootstrap / Metarial UI / Git and Github / PostgreSql / SQL /  
 
 - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning Django Advanced Topics. 
